@@ -1,6 +1,6 @@
 # Quasar App (quasar-starter-template)
 
-A Quasar Project SSR mode
+DI A Quasar Project SSR mode
 
 ![img](https://i.ibb.co/Q6CXwwd/01.png)
 
